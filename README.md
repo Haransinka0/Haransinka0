@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ===================== ANIMATED BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:38BDF8&height=250&section=header&text=Haran%20Sinka%20S%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20RAG%20Systems%20%E2%80%A2%20Cloud%20Architecture&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">🚀 Haran Sinka S M</h1>
+<h3 align="center">Full-Stack Developer • AI & RAG Systems • Cloud Architecture</h3>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<hr />
 
 ## 🧑‍💻 About Me
 
@@ -40,7 +40,7 @@ education:   B.Tech IT, Sri Krishna College of Engineering and Technology (2022 
 - 📜 Certified in **Cryptography** (Infosys Springboard) & **Java** (SKCET × IIT Bombay — 92.5%)
 - ⚡ Fun fact: I've shipped RAG pipelines, Teams bots, and ERP systems — all before graduating
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<hr />
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +79,7 @@ education:   B.Tech IT, Sri Krishna College of Engineering and Technology (2022 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<hr />
 
 ## 🚀 Flagship Projects
 
@@ -208,7 +208,7 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<hr />
 
 ## 📊 GitHub Metrics
 
@@ -220,18 +220,8 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 
 </div>
 
-<br/>
+<hr />
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haransinka0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haransinka0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com/?user=Haransinka0&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
 ## 🎓 Education & Certifications
 
@@ -242,7 +232,7 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 - 📜 NPTEL — Mindfulness and Sustainable Well-being (75%)
 - 📜 Spoken Tutorial Project, IIT Bombay — Python 3.4.3
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<hr />
 
 <div align="center">
 
@@ -255,6 +245,5 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 
 <i>"Building AI-augmented systems that ship."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
