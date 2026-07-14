@@ -210,7 +210,17 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
+
+> Auto-generated every day by [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — one-time setup in [`METRICS_SETUP.md`](./METRICS_SETUP.md).
+
+<div align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="Haran's GitHub metrics"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -218,12 +228,6 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haransinka0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com/?user=Haransinka0&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haransinka0&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haransinka0&theme=tokyonight&hide_border=true" width="0" height="0"/>
 
 </div>
 
