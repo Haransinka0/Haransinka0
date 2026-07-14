@@ -36,24 +36,3 @@ jobs:
           # ---------- isometric contribution calendar ----------
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # ---------- coding habits and activity ----------
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-
-          # ---------- pagespeed insights ----------
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://github.com/Haransinka0
-          plugin_pagespeed_detailed: yes
-
-          # ---------- music ----------
-          # Note: Requires Spotify/Apple Music secret tokens to be set up if enabled.
-          # We'll enable it for Last.fm (simplest, no OAuth needed) or keep it placeholder/commented if you don't have it.
-          # To match the screenshot, you can configure spotify/apple music here.
-          # plugin_music: yes
-          # plugin_music_provider: spotify
-
-          # ---------- notable repos ----------
-          plugin_repositories: yes
