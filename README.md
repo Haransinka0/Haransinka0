@@ -216,7 +216,7 @@ Microsoft OAuth login, role-based access (Admin/HR/Employee), and full appraisal
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" alt="Haran's GitHub metrics"/>
+<img src="./github-metrics.svg?v=1.0" width="100%" alt="Haran's GitHub metrics"/>
 
 </div>
 
